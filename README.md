@@ -1,11 +1,14 @@
 # Project-Overview
 
 ## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈
-*Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
-<div style="display: flex; justify-content: center; width: 800px; min-height: 200px; gap: 50px; border: 5px solid red;">
-  <img src="assets/push_swap.gif" style="width: 340px;">
-  <img src="assets/push_swap%20visualize.gif" style="width: 400px;">
-</div>
+*Execute & Makefile tutorial*  
+&nbsp;  
+**Visualizing my program sorting 500 random numbers:**  
+
+| Push Swap | Visualization |
+|-----------|--------------|
+| ![Push Swap](assets/push_swap.gif) | ![Push Swap Visualization](assets/push_swap%20visualize.gif) |
+
 
 
 ## [So Long](https://github.com/Siuol7/42-so_long.git)🎮
