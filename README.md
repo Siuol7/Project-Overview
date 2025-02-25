@@ -1,10 +1,11 @@
 # Project-Overview
 
 ## **Push Swap**
-*Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
-<div style="display : flex; align-items : center;">
-  <img src= "assets/push_swap.gif" style = "width : 50%;">
-  <img src= "assets/push_swap visualize.gif" style = "width : 50%;">
+*Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
+<div style = "display : flex; align-items : center;">
+  <img src= "assets/push_swap.gif" style="width : 50%; margin-right: 10px;">
+  <img src= "assets/push_swap visualize.gif" style = "width : 50%; margin-left: 10px;">
+</div>
 
 ## **So Long**
 *Execute & Makefile tutorial*
