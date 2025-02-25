@@ -2,31 +2,10 @@
 
 ## **Push Swap**
 *Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Push Swap Visualizer</title>
-  <style>
-    .image-container {
-      display: flex;
-      align-items: center;
-      width: 100%;
-    }
-    .image-container img {
-      flex: 1;
-      margin: 0 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Push Swap Visualizer</h1>
-  <div class="image-container">
-    <img src="assets/push_swap.gif" alt="Push Swap Animation">
-    <img src="assets/push_swap%20visualize.gif" alt="Push Swap Visualization">
-  </div>
-</body>
-</html>
+<div style="display: flex !important; align-items: center; width: 100%;">
+  <img src="assets/push_swap.gif" style="width: 50% !important; margin-right: 10px;">
+  <img src="assets/push_swap%20visualize.gif" style="width: 50% !important; margin-left: 10px;">
+</div>
 
 
 ## **So Long**
