@@ -2,9 +2,9 @@
 
 ## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈
 *Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <img src="assets/push_swap.gif" style="width: 340px; flex-grow: 1;">
-  <img src="assets/push_swap%20visualize.gif" style="width: 400px; flex-grow: 1;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 800px;">
+  <img src="assets/push_swap.gif" style="width: 340px;">
+  <img src="assets/push_swap%20visualize.gif" style="width: 400px;">
 </div>
 
 
