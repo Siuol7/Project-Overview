@@ -1,4 +1,4 @@
 # Project-Overview
 
-##**1. Push Swap**
-![Demo GIF](assets/push_swap.gif)
+## **1. Push Swap**
+<img src= "assets/push_swap.gif" style = "width : 50%;">
