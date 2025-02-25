@@ -1,13 +1,10 @@
 # Project-Overview
 
-## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈
-*Execute & Makefile tutorial*  
-&nbsp;  
-**Visualizing my program sorting 500 random numbers:**  
+## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈 
 
 | Push Swap | Visualization |
 |-----------|--------------|
-| ![Push Swap](assets/push_swap.gif) | ![Push Swap Visualization](assets/push_swap%20visualize.gif) |
+| ![****Execute & Makefile tutorial***](assets/push_swap.gif) | ![***Visualizing my program sorting 500 random numbers:***](assets/push_swap%20visualize.gif) |
 
 
 
