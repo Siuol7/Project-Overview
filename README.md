@@ -2,9 +2,13 @@
 
 ## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈
 *Execute & Makefile tutorial* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visualizing my program sorting 500 random numbers*
-<div style="display: flex; justify-content: center; width: 800px; gap: 50px;">
-  <img src="assets/push_swap.gif" style="width: 340px;">
-  <img src="assets/push_swap%20visualize.gif" style="width: 400px;">
+<div style="display: flex; justify-content: space-between; width: 800px; gap: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="assets/push_swap.gif" style="width: 340px;">
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="assets/push_swap%20visualize.gif" style="width: 400px;">
+  </div>
 </div>
 
 ## [So Long](https://github.com/Siuol7/42-so_long.git)🎮
