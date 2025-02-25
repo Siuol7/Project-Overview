@@ -18,3 +18,7 @@
 ## **Pipex**
 *Execute & Makefile tutorial*
 <img src= "assets/pipex.gif" style = "width : 50%;">
+
+## **Philosophers Dinner"
+*Execute & Makefile tutorial with 200 philosophers*
+<img src= "assets/philo.gif" style = "width : 50%;">
