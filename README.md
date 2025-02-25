@@ -9,11 +9,11 @@
 
 
 ## **So Long**
-*Execute & Makefile tutorial*
-<img src= "assets/so_long.gif" style = "width : 50%;">
-
-*Game display*
-<img src= "assets/game.gif" style = "width : 50%;">
+*Execute & Makefile tutorial*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Game displaying on screen*
+<div style="display: flex !important; align-items: center; width: 100%;">
+  <img src="assets/so_long.gif" style="width: 50% !important; margin-right: 10px;">
+  <img src="assets/game.gif" style="width: 50% !important; margin-left: 10px;">
+</div>
 
 ## **Pipex**
 *Execute & Makefile tutorial*
