@@ -14,7 +14,7 @@
 | ![So Long](assets/so_long.gif) | ![Game](assets/game.gif) |
 
 ## [Pipex](https://github.com/Siuol7/42-pipex.git)🔧               ## [Philosophers Dinner](https://github.com/Siuol7/42-philosophers.git) 🍴
-| ***Execute & Makefile tutorial***|| ***Execute & Makefile tutorial with 200 philosophers***|
+| ***Execute & Makefile tutorial***| ***Execute & Makefile tutorial with 200 philosophers***|
 |-----------|-----------|
 | ![So Long](assets/pipex.gif) | ![So Long](assets/philo.gif) |
 
