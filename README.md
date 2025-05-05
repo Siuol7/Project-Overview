@@ -2,9 +2,10 @@
 
 ## [Minishell](https://github.com/Siuol7/42-minishell)🐚
 
-|***Execute & Makefile tutorial***|
+| ***Execute & Makefile tutorial*** |
 |-----------|
-|![Minishell](assets/minishell.gif)|
+| <img src="assets/minishell.gif" width="400"/> |
+
 
 ## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈 
 
