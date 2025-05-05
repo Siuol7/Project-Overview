@@ -4,7 +4,7 @@
 
 | ***Execute & Makefile tutorial*** |
 |-----------|
-| <img src="assets/minishell.gif" width="400"/> |
+| <img src="assets/minishell.gif" width="600"/> |
 
 
 ## [Push Swap](https://github.com/Siuol7/42-push_swap.git)📈 
