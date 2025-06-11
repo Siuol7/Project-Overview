@@ -8,7 +8,7 @@
 
 ## [Cub3D Game](https://github.com/Siuol7/42-push_swap.git)🎮
 
-| ***Execute & Makefile tutorial*** | ***Visualizing my program sorting 500 random numbers*** |
+| ***Execute & Makefile tutorial*** | ***Playing Cub3d moving and stabbing*** |
 |-----------|--------------|
 | ![Cub3d](assets/cub3D-tutorial.gif) | ![Visualiztion](assets/cub3d-game.gif) |
 
