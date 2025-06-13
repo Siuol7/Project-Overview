@@ -6,7 +6,7 @@
 |-----------|
 | <img src="assets/minishell.gif" width="800"/> |
 
-## [Cub3D Game](https://github.com/Siuol7/42-Cub3d)🎮
+## [Cub3D Game](https://github.com/Siuol7/42-Cub3d) 🎮
 
 | ***Execute & Makefile tutorial*** | ***Playing Cub3d moving and stabbing*** |
 |-----------|--------------|
